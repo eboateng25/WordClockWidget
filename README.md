@@ -14,3 +14,5 @@ The colours of the clock can be changed using the following variables:
 SELECTED_COLOUR = "DDDDDD" // Refers to the highlighted colour
 UNSELECTED_COLOUR = "C0BFBC" // Refers to the unhighlighted colour
 ```
+## Font
+The following font may be need to be downloaded to get the application working: https://freefontsdownload.net/download/154676/homepagebaukastenbold.zip
