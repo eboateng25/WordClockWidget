@@ -1,7 +1,7 @@
 # Word Clock Linux Widget
 Word clock brings you a new way to read the time on your Linux desktop.
 
-<img src="https://i.imgur.com/Ug3X64Z.png" width=70% />
+<img src="https://imgur.com/KzFHN6a.png" width=70% />
 
 ## Building & Customization
 This project was made using **Qt 5.15.2 (GCC 7.3.1 20180303 (Red Hat 7.3.1-5), 64 bit)**.
